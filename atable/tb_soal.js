@@ -1,0 +1,106 @@
+const soal = {
+    "id": 1,
+    "id_typesoal": 1,
+    "nama soal": "test interview",
+    "time": 1800000,
+    "soal": [
+        {
+            "pertanyaan": "State management pada react",
+            "option": {
+                "a": "hooks",
+                "b": "function",
+                "c": "useState",
+                "d": "arrow"
+            },
+            "key_jawaban": {
+                "a": false,
+                "b": false,
+                "c": true,
+                "d": false
+            }
+        },
+        {
+            "pertanyaan": "State management pada react",
+            "option": {
+                "a": "hooks",
+                "b": "function",
+                "c": "useState",
+                "d": "arrow"
+            },
+            "key_jawaban": {
+                "a": false,
+                "b": false,
+                "c": true,
+                "d": false
+            }
+        },
+        {
+            "pertanyaan": "State management pada react",
+            "option": {
+                "a": "hooks",
+                "b": "function",
+                "c": "useState",
+                "d": "arrow"
+            },
+            "key_jawaban": {
+                "a": false,
+                "b": false,
+                "c": true,
+                "d": false
+            }
+        },
+        {
+            "pertanyaan": "State management pada react",
+            "option": {
+                "a": "hooks",
+                "b": "function",
+                "c": "useState",
+                "d": "arrow"
+            },
+            "key_jawaban": {
+                "a": false,
+                "b": false,
+                "c": true,
+                "d": false
+            }
+        },
+        {
+            "pertanyaan": "State management pada react",
+            "option": {
+                "a": "hooks",
+                "b": "function",
+                "c": "useState",
+                "d": "arrow"
+            },
+            "key_jawaban": {
+                "a": false,
+                "b": false,
+                "c": true,
+                "d": false
+            }
+        }
+    ],
+    "detail_type": {
+        "id": 1,
+        "id_ruangan": 1,
+        "nama soal": "test interview",
+        "jum_soal": 15,
+        "type_soal": "radio",
+        "type_waktu": "time",
+        "detail_ruangan": {
+            "id": 1,
+            "id_pengawas": null,
+            "nama_ruangan": "Free",
+            "status_ruangan": "free",
+            "detail_pengawas": {
+                "id": 1,
+                "nama": "baharudin",
+                "email": "baharudin132@gmail.com",
+                "password": "sfsdfsdfsd",
+                "status": "free"
+            }
+        }
+    }
+}
+
+export default soal

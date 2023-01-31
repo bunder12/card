@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "id_pengawas": 1,
+    "nama ruangan": "Free",
+    "status_ruangan": "free",
+    "detail_pengawas": {
+        "id": 1,
+        "nama": "baharudin",
+        "email": "baharudin132@gmail.com",
+        "password": "sfsdfsdfsd",
+        "status": "free"
+    }
+}

@@ -1,0 +1,51 @@
+### EndPoint
+
+## Pengawas
+
+# daftar
+post
+/daftar/pengawas
+
+# login
+post
+/login/pengawas
+
+# Ruangan
+**ambil data ruangan
+get
+/ruangan
+
+**buat ruangan
+post
+/ruangan
+
+**hapus ruangan
+delete
+/ruangan/${id}
+
+# Soal
+**ambil data Soal
+get
+/soal
+
+**buat soal
+post
+/soal
+
+**edit soal
+put or patch
+/soal/${id}
+
+**delete soal
+delete
+/soal/${id}
+
+
+## murid
+
+# daftar
+post
+/daftar/murid
+
+# login
+/login/murid

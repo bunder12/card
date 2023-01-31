@@ -1,0 +1,26 @@
+{
+    "id": "0xyughjenwebnmnewr",
+    "id_murid": "0xhgshfdhgfdsfds",
+    "id_ruangan": "0xhskfdsfjdsfhsdf",
+    "score": 245,
+    "detail_murid": {
+        "id": "0xjfsdfdsfdsf",
+        "nama": "bambang",
+        "email": "mrsiregar@gmail.com",
+        "password": "fsdfsdf",
+        "umur": 23
+    },
+    "detail_ruangan": {
+        "id": "0xdfgdshfdsfsf",
+        "id_pengawas": "free",
+        "nama ruangan": "Free Ruangan",
+        "status_ruangan": "free",
+        "detail_pengawas": {
+            "id": 1,
+            "nama": "baharudin",
+            "email": "baharudin132@gmail.com",
+            "password": "sfsdfsdfsd",
+            "status": "free"
+        }
+    }
+}

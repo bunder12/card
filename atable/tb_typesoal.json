@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "id_ruangan": 1,
+    "jum_soal": 15,
+    "type_soal": "radio",
+    "type_waktu": "time",
+    "detail_ruangan": {
+        "id": 1,
+        "id_pengawas": null,
+        "nama ruangan": "Free",
+        "status_ruangan": "free",
+        "detail_pengawas": {
+            "id": 1,
+            "nama": "baharudin",
+            "email": "baharudin132@gmail.com",
+            "password": "sfsdfsdfsd",
+            "status": "free"
+        }
+    }
+
+}
