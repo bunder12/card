@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 
 const useTime = () => {
-    const countDate = new Date("2023-01-10 21:20:00").getTime() 
+    const countDate = new Date("2023-02-10 21:20:00").getTime() 
     const [countTime, setCountTime] = useState(countDate - new Date().getTime);
     useEffect(() => {
         const interval = setInterval(() => {
